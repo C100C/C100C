@@ -5,7 +5,7 @@ I believe technology will continue to revolutionize our progress as a species �
 💻 **Current Focus**
 - Developing **full-stack applications** using **JavaScript, React, Node.js, Express, and PostgreSQL**
 - Learning **DevOps practices**, CI/CD pipelines, and **cloud deployment** (AWS, Docker, Git, Linux)
-- Exploring **AI/ML** through **Python**, linear algebra, statistics, and real-world API integrations
+- Understanding AI
 
 🚀 **Goal**
 To build modern, reliable applications that bring together **software engineering, AI, and automation** to make a positive impact.
